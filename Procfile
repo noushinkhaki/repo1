@@ -1,0 +1,1 @@
+web: java -jar target/retailstoreapp-1.0.jar
