@@ -1,1 +1,1 @@
-web: java -jar target/retailstoreapp-1.0-SNAPSHOT.jar
+web: java -jar -Dserver.port=$PORT target/retailstoreapp-1.0-SNAPSHOT.jar
